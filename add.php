@@ -5,9 +5,7 @@
 
 <body>
 	<h2>Add Data</h2>
-	<p>
 		<a href="index.php">Home</a>
-	</p>
 
 	<form action="addAction.php" method="post" name="add">
 		<table width="25%" border="0">
